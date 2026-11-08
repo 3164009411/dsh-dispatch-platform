@@ -1,0 +1,100 @@
+{
+  "version": "1.0",
+  "platforms": {
+    "qwen": {
+      "name": "千问办公",
+      "port": 9555,
+      "specialties": [
+        "自然语言创作",
+        "长文方案评审"
+      ],
+      "specialties_verified": false,
+      "read_local_files": "yes",
+      "confirm_mode": "human",
+      "status": "active",
+      "work_mode": null,
+      "work_mode_options": [],
+      "work_mode_policy": null,
+      "model": null,
+      "model_default": null,
+      "model_policy": null,
+      "model_switch": false
+    },
+    "doubao": {
+      "name": "豆包",
+      "port": 9333,
+      "specialties": [
+        "自然语言创作",
+        "视频转录",
+        "仓库克隆"
+      ],
+      "specialties_verified": false,
+      "read_local_files": "yes",
+      "confirm_mode": "human",
+      "status": "active",
+      "work_mode": null,
+      "work_mode_options": [],
+      "work_mode_policy": null,
+      "model": null,
+      "model_default": null,
+      "model_policy": null,
+      "model_switch": false
+    },
+    "dumate": {
+      "name": "百度搭子",
+      "port": 9666,
+      "specialties": [
+        "调研",
+        "HTML 生成"
+      ],
+      "specialties_verified": false,
+      "read_local_files": "yes",
+      "confirm_mode": "human",
+      "status": "active",
+      "work_mode": null,
+      "work_mode_options": [],
+      "work_mode_policy": null,
+      "model": null,
+      "model_default": null,
+      "model_policy": null,
+      "model_switch": false
+    },
+    "trae": {
+      "name": "Trae CN",
+      "port": 9444,
+      "specialties": [
+        "代码开发"
+      ],
+      "specialties_verified": false,
+      "read_local_files": "yes",
+      "confirm_mode": "human",
+      "status": "active",
+      "work_mode": null,
+      "work_mode_options": [],
+      "work_mode_policy": null,
+      "model": null,
+      "model_default": null,
+      "model_policy": null,
+      "model_switch": false
+    },
+    "workbuddy": {
+      "name": "WorkBuddy",
+      "port": 9222,
+      "specialties": [
+        "通用",
+        "方案写作"
+      ],
+      "specialties_verified": false,
+      "read_local_files": "yes",
+      "confirm_mode": "human",
+      "status": "active",
+      "work_mode": null,
+      "work_mode_options": [],
+      "work_mode_policy": null,
+      "model": null,
+      "model_default": null,
+      "model_policy": null,
+      "model_switch": false
+    }
+  }
+}

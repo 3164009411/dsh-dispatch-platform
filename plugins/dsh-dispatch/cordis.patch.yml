@@ -1,0 +1,10 @@
+- insert:
+    - id: dispatch-manager
+      name: '@local/dsh-dispatch'
+      config:
+        # repoRoot / python 默认取进程环境，可按需覆盖
+        toolsDir: 'tools/dispatch'
+        cdpDir: 'tools/cdp'
+        allowSend: true
+        defaultDeadlineS: 900
+        defaultTimeoutS: 300

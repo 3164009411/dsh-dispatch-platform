@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Dispatch Manager",
+    "description": "One entry for external dispatch: doctor channels, send tasks, verify artifacts; also exposes a dispatch Service for context-manager."
+  }
+}

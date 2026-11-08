@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "外派调度",
+    "description": "外派统一入口：先 doctor 查通道，再 send 派发，最后按产物判回执；同时暴露 dispatch Service 供上下文管理调用。"
+  }
+}
